@@ -3,7 +3,7 @@ base=$(cd $(dirname $0)/..; pwd)
 
 DAMENG_IMAGE=dm8_20230104_x86_rh6_64.iso
 DAMENG_NAME=dm8-20230104-x86_64-linux
-DAMENG_IMAGE_LINK=https://cclna.oss-cn-zhangjiakou.aliyuncs.com/depends/dameng/$DAMENG_IMAGE
+DAMENG_IMAGE_LINK=https://TODO/$DAMENG_IMAGE
 
 function dl {
 name=$1
